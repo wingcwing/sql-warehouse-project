@@ -1,9 +1,6 @@
-# Data Warehouse Project
+# SQL Data Warehouse
 
-Welcome to the **Data Warehouse Project** repository! 🚀  
-This project demonstrates a comprehensive data warehousing solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights best practices in data engineering and analytics.
-
----
+A modern SQL Server data warehouse project built using Medallion Architecture (Bronze, Silver, and Gold layers). The project integrates CRM and ERP data, applies ETL processes, and delivers a Star Schema model optimized for analytical reporting.
 
 ## 📌 Project Overview
 
@@ -22,6 +19,29 @@ This repository is an excellent resource for professionals and students looking 
 - Data Modeling  
 - Data Analytics  
 
+---
+
+## 🚀 Project Highlights
+
+* Built a multi-layer Data Warehouse using Bronze, Silver, and Gold architecture
+* Integrated CRM and ERP source systems
+* Developed ETL pipelines using SQL Server
+* Designed a Star Schema for analytical reporting
+* Created business-ready fact and dimension tables
+* Documented data architecture, data model, and data dictionary
+
+---
+## 🛠️ Tech Stack
+
+This project was built using the following tools and technologies:
+
+* 🗄️ **SQL Server** – Data warehouse platform
+* 💻 **SQL Server Management Studio (SSMS)** – Database development and administration
+* 🌿 **Git** – Version control
+* 📂 **GitHub** – Project repository and documentation
+* 📊 **Draw.io** – Data architecture and data model diagrams
+* 📝 **Notion** – Project Planning & Documentation
+  
 ---
 
 ## 🎯 Project Requirements
