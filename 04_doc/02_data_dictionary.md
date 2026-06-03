@@ -1,9 +1,13 @@
 # Data Dictionary
 
-**##Gold Layer**
-
 ## Overview
-The Gold Layer is the business-level data representation, structured to support analytical and reporting use cases. It consists of **dimension tables** and **fact tables** for specific business metrics.
+This project follows a Medallion Architecture consisting of Bronze, Silver, and Gold layers.
+
+Bronze Layer stores raw CRM and ERP source data without business transformations.
+Silver Layer contains cleansed and standardized datasets prepared for downstream processing.
+Gold Layer represents the business-ready data model designed for analytics and reporting.
+
+The data dictionary in this document focuses on the Gold Layer, which consists of dimension and fact tables used for business intelligence and analytical reporting.
 
 ---
 
